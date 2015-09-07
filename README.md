@@ -1,1 +1,1 @@
-HTML5 game based on (Build An HTML5 Game)[http://buildanhtml5game.com/] book.
+HTML5 game based on [Build An HTML5 Game](http://buildanhtml5game.com/) book.
